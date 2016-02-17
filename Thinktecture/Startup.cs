@@ -22,7 +22,7 @@ namespace AccessTokenValidationIISLogging.Thinktecture
 
             app.UseIdentityServerBearerTokenAuthentication(new IdentityServerBearerTokenAuthenticationOptions
             {
-                Authority = "http://localhost:88/auth/core",
+                Authority = "http://localhost:49907/core",
                 ValidationMode = ValidationMode.Local, // JWT
                 Provider = new OAuthBearerAuthenticationProvider()
                 {
