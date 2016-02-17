@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thinktecture", "Thinktecture\AccessTokenValidationIISLogging.Thinktecture.csproj", "{DFD653C7-877B-49E2-90BD-7C9F368509BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer3", "IdentityServer3\AccessTokenValidationIISLogging.IdentityServer3.csproj", "{3BC3B989-E92B-4DCC-8B83-A2C044C9722B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD653C7-877B-49E2-90BD-7C9F368509BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD653C7-877B-49E2-90BD-7C9F368509BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD653C7-877B-49E2-90BD-7C9F368509BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD653C7-877B-49E2-90BD-7C9F368509BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC3B989-E92B-4DCC-8B83-A2C044C9722B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC3B989-E92B-4DCC-8B83-A2C044C9722B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC3B989-E92B-4DCC-8B83-A2C044C9722B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC3B989-E92B-4DCC-8B83-A2C044C9722B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
